@@ -4,7 +4,7 @@ fields_of_interests:
   [
     "Web Development",
     "Cloud",
-    "Microservices",
+    "Microservices"
   ]
 - 🌱 I’m currently learning AWS Solutions Architect
 - 💞️ I’m looking to collaborate on versed projects in Data and Cloud
