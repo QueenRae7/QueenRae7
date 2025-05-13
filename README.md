@@ -8,9 +8,9 @@ fields_of_interests:
   ]
 - 🌱 I’m currently learning AWS Solutions Architect
 - 💞️ I’m looking to collaborate on versed projects in Data and Cloud
-- 📫 How to reach me ...
+- 📫 How to reach me on my profile
 - 😄 Pronouns: Her
-- ⚡ Fun fact: My Brain is a Sponge, once I learn something I never forget it
+- ⚡ Fun fact: My Brain is a Sponge, once I learn something, I never forget it
 
 <!---
 QueenRae7/QueenRae7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
